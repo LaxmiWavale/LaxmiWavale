@@ -83,7 +83,7 @@
    </a>
   <a href="https://www.w3.org/" target="_blank" rel="noreferrer">
 	<img
-	  src="./spring-boot-logo.svg"
+	  src="./spring-boot-logo.png"
 	  alt="spring"
 	  width="40"
 	  height="40"
