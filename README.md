@@ -75,7 +75,7 @@
   </a>
   <a href="https://www.w3.org/" target="_blank" rel="noreferrer">
 	<img
-	  src="http://127.0.0.1:5500/spring-icon1.svg"
+	  src="./spring-icon1.svg"
 	  alt="spring"
 	  width="40"
 	  height="40"
