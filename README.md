@@ -97,9 +97,17 @@
 	  height="40"
 	/>
    </a>
-   <a href="https://www.w3.org/" target="_blank" rel="noreferrer">
+   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
 	<img
 	  src="./mysqlworkbench_102952.svg"
+	  alt="spring"
+	  width="40"
+	  height="40"
+	/>
+   </a>
+   <a href="https://docs.oracle.com/javaee/7/tutorial/servlets.htm" target="_blank" rel="noreferrer">
+	<img
+	  src="./external-content.duckduckgo.com.png"
 	  alt="spring"
 	  width="40"
 	  height="40"
