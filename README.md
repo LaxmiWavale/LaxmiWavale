@@ -73,7 +73,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/" target="_blank" rel="noreferrer">
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
 	<img
 	  src="./spring-icon1.svg"
 	  alt="spring"
@@ -81,7 +81,7 @@
 	  height="40"
 	/>
    </a>
-  <a href="https://www.w3.org/" target="_blank" rel="noreferrer">
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
 	<img
 	  src="./spring-boot-logo.png"
 	  alt="spring"
@@ -89,7 +89,7 @@
 	  height="40"
 	/>
    </a>
-   <a href="https://www.w3.org/" target="_blank" rel="noreferrer">
+   <a href="https://hibernate.org/orm/documentation/6.1/" target="_blank" rel="noreferrer">
 	<img
 	  src="./hibernate_logo_icon_171004.svg"
 	  alt="spring"
