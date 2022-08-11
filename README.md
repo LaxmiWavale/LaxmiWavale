@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.monkey.codes/content/images/2015/12/monkey_code_banner.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Laxmi Wavale</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
