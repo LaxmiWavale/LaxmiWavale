@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Laxmi Wavale</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
+<img align="right" alt="Coding" width="400" src="https://asapkerala.gov.in/course/coding-skills/"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmi16101995&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi16101995" /> </p>
 
 - 🌱 I’m currently learning **SQL**
