@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmi16101995&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi16101995" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://laxmi16101995.github.io/Portfolio_Wavale_Laxmi/](https://laxmi16101995.github.io/Portfolio_Wavale_Laxmi/)
 
