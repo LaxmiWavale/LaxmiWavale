@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center" >
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -125,7 +125,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi16101995&show_icons=true&locale=en&layout=compact" alt="laxmi16101995" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi16101995&show_icons=true&locale=en&layout=compact" alt="laxmi16101995" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmi16101995&show_icons=true&locale=en" alt="laxmi16101995" /></p>
 
