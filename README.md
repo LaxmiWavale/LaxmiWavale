@@ -16,8 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/laxmi-wavale/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="laxmi-wavale" height="30" width="40" /></a>
-<a href="https://medium.com/@laxmiwavale1995" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhasker23" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://twitter.com/wavale_laxmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wavale_laxmi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/laxmi-wavale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laxmi-wavale/" height="30" width="40" /></a>
+<a href="https://fb.com/laxmi-wavale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="laxmi-wavale" height="30" width="40" /></a>
+<a href="https://medium.com/@laxmiwavale1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@laxmiwavale1995" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -125,8 +127,57 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi16101995&show_icons=true&locale=en&layout=compact" alt="laxmi16101995" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaxmiWavale&show_icons=true&locale=en&layout=compact" alt="LaxmiWavale" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmi16101995&show_icons=true&locale=en" alt="laxmi16101995" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LaxmiWavale&show_icons=true&locale=en" alt="LaxmiWavale" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LaxmiWavale&" alt="LaxmiWavale" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
