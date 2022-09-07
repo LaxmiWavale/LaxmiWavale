@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Laxmi Wavale</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <p/>I am enthusiastic about learning new technologies. I found myself drawn to the tech world so I started learning Full-stack Web Development and then backend development now I am more inclined towards Java backend development and looking forward to learning new technologies and implement them.</p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmi16101995&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi16101995" /> </p>
+<p><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=laxmi16101995&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi16101995" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://laxmi16101995.github.io/Portfolio_Wavale_Laxmi/](https://laxmi16101995.github.io/Portfolio_Wavale_Laxmi/)
+- 👨‍💻 All of my projects are available at [https://laxmiwavale.netlify.app/](https://laxmi16101995.github.io/Portfolio_Wavale_Laxmi/)
 
 - 📫 How to reach me **laxmiwavale1995@gmail.com**
 
@@ -127,57 +127,11 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaxmiWavale&show_icons=true&locale=en&layout=compact" alt="LaxmiWavale" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaxmiWavale&show_icons=true&locale=en&layout=compact" alt="LaxmiWavale" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LaxmiWavale&show_icons=true&locale=en" alt="LaxmiWavale" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LaxmiWavale&show_icons=true&locale=en" alt="LaxmiWavale" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LaxmiWavale&" alt="LaxmiWavale" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LaxmiWavale&" alt="LaxmiWavale" /></p>
 
 
 
