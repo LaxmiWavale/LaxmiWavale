@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [](https://laxmiwavale.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://laxmiwavale.netlify.app/](https://laxmiwavale.netlify.app/)
 
 - 📫 How to reach me **laxmiwavale1995@gmail.com**
 
